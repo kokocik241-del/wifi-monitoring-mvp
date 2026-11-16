@@ -1,0 +1,8 @@
+   {
+     "dashboard": {
+       "title": "Wi-Fi Monitoring",
+       "panels": [
+         {"title": "RSSI", "type": "graph"}
+       ]
+     }
+   }
