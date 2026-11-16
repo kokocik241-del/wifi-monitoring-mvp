@@ -1,0 +1,6 @@
+   - hosts: raspberry_pi
+     tasks:
+       - name: Install Telegraf
+         apt:
+           name: telegraf
+           state: present
